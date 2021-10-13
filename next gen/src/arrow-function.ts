@@ -1,3 +1,5 @@
+const test = undefined; // this line just for test
+
 function addFunction(a: number, b: number) {
   return a + b;
 }

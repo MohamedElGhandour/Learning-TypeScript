@@ -1,3 +1,5 @@
+const test = undefined; // this line just for test
+
 // const person: object = {
 //   name: "Mohamed",
 //   age: 30,
