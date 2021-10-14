@@ -1,3 +1,5 @@
+const test = undefined; // this line just for test
+
 // type addFn = (x: number, y: number) => number;
 interface addFn {
   (x: number, y: number): number;
