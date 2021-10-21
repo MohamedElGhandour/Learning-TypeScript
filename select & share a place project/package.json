@@ -1,0 +1,24 @@
+{
+  "name": "select-share-a-place-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webapck",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "Mohamed Elghandour",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.4",
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
